@@ -1,4 +1,4 @@
 - Hi, I’m Yoav Dror  
 - Design Verification Engineer  
-- B.Sc. in Electrical Engineering (Dean’s List) and incoming M.Sc. in Computer Science at Georgia Tech (OMSCS)  
+- B.Sc. in Electrical Engineering (Dean’s List) and M.Sc. Student in Computer Science at Georgia Institute of Technology (OMSCS)  
 - Reach me at: yoavdror3@gmail.com
